@@ -1,3 +1,18 @@
 # trabalho-final
- o usuario pode escolher entre adicionar uma tarefa(apertando 1),excluir uma tarefa apertando o numero 2 e logo em seguida especificando qual tarefa digitando o numero.
-E se quiser sair e  olhar as tarefas aperte 3.Se quiser resetar o sistema aperte F5.
+# sistema de tarefas 
+ O sistema serve para organizar tarefas,podendo excluir e adicionar,serve tanto para tarefas cotidianas quanto para ambiente de trabalho.
+
+# Como usar
+
+aperte 1 para adicionar tarefas,aperte 2 para excluir tarefas e aperte 3 para ver as tarefas.Aperte F5 para resetar o sistema
+
+# Exemplos de como usar
+
+Se você é uma pessoa que deseja organizar suas tarefas este sistema é perfeito para você,se deseja utilizar para controlar e organizar as tarefas
+e afazeres da sua empresa também é perfeito.
+
+# Creditos
+
+Esse sistema foi feito por Gustavo Pedroso,isaias e rafaely.
+
+o sistema podera ser atualizado conforme problemas venham a acontecer.
