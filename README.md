@@ -4,7 +4,11 @@
 
 # Como usar
 
-aperte 1 para adicionar tarefas,aperte 2 para excluir tarefas e aperte 3 para ver as tarefas.Aperte F5 para resetar o sistema
+aperte 1 para adicionar tarefas,após isso digite a tarefas que deseja adicionar,após isso diga os detalhes da tarefa.
+aperte 2 para excluir tarefas,e logo em seguida digite o numero da tarefa que deseja excluir.
+obs:não é possivel reverter uma tarefa excluida.
+aperte 3 para sair e ver as tarefas.
+Aperte F5 para resetar o sistema
 
 # Exemplos de como usar
 
@@ -13,6 +17,8 @@ e afazeres da sua empresa também é perfeito.
 
 # Creditos
 
-Esse sistema foi feito por Gustavo Pedroso,isaias e rafaely.
-
+Esse sistema foi feito por: 
+Gustavopedrosodarocha10@gmail.com
+virriel17@outlook.com
+rafagodoi15@gmail.com
 o sistema podera ser atualizado conforme problemas venham a acontecer.
